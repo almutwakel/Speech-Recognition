@@ -1,9 +1,9 @@
 # Speech-Recognition
-Build a model to detect phonemes in speech recordings
+Build a model to detect phonemes in speech recordings. 
 
-Reached 86% accuracy
-To run just "Run all"
-To load existing model uncomment block under Testing and submission
+Reached 86% accuracy.
+To run just "Run all."
+To load existing model uncomment block under Testing and submission.
 
 # Experiments:
 
