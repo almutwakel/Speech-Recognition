@@ -23,8 +23,12 @@ Data: Cepstral normalization
 
 Activations: RELU, GELU
 
-Batch Normalization: 0-0.3, alternating layers or full
+Dropout: 0-0.3, alternating layers or full
 
 Epochs: 10-50
 
 Batch Sizes: 1024, 2048
+
+Batch normalization
+
+Final parameters: 1024 batch size + 0.2 dropout + BatchNorm + AdamW + ReduceLRonPlateau + Cylindrical + 6 layer + Cepstral Norm + 21 context + 2048 layer width + GELU
